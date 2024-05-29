@@ -1,2 +1,3 @@
 # progetti-android-5BI
-all project of 5BI 2024
+
+PictionaryParty: [Link to repository] (https://github.com/luconlorenzo/PictionaryParty)
